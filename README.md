@@ -1,5 +1,5 @@
 ## My Awesome Package
-[![PyPI version](https://badge.fury.io/py/topsis-102203080 1.1.svg)](https://pypi.org/project/topsis-102203080 1.1/)
+[![PyPI version](https://badge.fury.io/py/topsis-102203080.svg)](https://pypi.org/project/topsis-102203080/)
 
 
 ## PROJECT DESCRIPTION 
